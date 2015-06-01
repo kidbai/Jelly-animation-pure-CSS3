@@ -1,3 +1,3 @@
 # Install
 
-git clone https://github.com/kidbai/awesome-slider.git
+https://github.com/kidbai/Jelly-animation-pure-CSS3.git
